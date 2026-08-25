@@ -4,7 +4,7 @@ BPMN 2.0 process modeling for Civil Marriage License Issuance based on Greek pub
 
 # Civil Marriage License Issuance – BPMN 2.0 Process Modeling
 
-This repository contains a business process model for the ** 994264 Issuance of a Civil Marriage License (Έκδοση Άδειας Πολιτικού Γάμου)** in accordance with Greek public administration procedures ([mitos.gov.gr](https://mitos.gov.gr)).
+This repository contains a business process model for the **994264 Issuance of a Civil Marriage License (Έκδοση Άδειας Πολιτικού Γάμου)** in accordance with Greek public administration procedures ([mitos.gov.gr](https://mitos.gov.gr)).
 
 The process captures end-to-end interactions between the **Citizen (Applicant)**, the **Municipal Front-Desk Clerk**, and the **Competent Marriage Affairs Department**.
 
